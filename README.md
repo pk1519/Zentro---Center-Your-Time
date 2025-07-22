@@ -1,4 +1,4 @@
-# SecureShare - Confidential Message Sharing
+# Zentro - Center Your Time
 
 A secure, professional full-stack web application for sharing text or data confidentially using two-digit codes. Messages are encrypted with AES encryption and automatically deleted after access or expiration.
 
